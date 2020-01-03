@@ -1,0 +1,23 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "materialOrigin": {
+      "home": {
+        "title": "Material Origins",
+        "createLabel": "Create a new Material Origin",
+        "createOrEditLabel": "Create or edit a Material Origin",
+        "notFound": "No Material Origins found"
+      },
+      "created": "A new Material Origin is created with identifier {{ param }}",
+      "updated": "A Material Origin is updated with identifier {{ param }}",
+      "deleted": "A Material Origin is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Material Origin {{ id }}?"
+      },
+      "detail": {
+        "title": "Material Origin"
+      },
+      "name": "Name",
+      "material": "Material"
+    }
+  }
+}
