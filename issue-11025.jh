@@ -1,0 +1,9 @@
+entity Material {
+    name String
+}
+entity MaterialOrigin {
+    name String
+}
+relationship ManyToMany {
+    Material{origin} to MaterialOrigin{material}
+}
